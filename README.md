@@ -1,5 +1,6 @@
 # python_weiboSpider
-#代码运行说明
+代码运行说明
+
 1.weibopr.py是用来分析大V博主影响力的，同时会爬取博主微博数据保存在weibopr这个文件夹下。
 
 2.userid.py是用来爬取博主粉丝uid的，保存在Weibo_list_p.txt和Weibo_list_jy.txt两个文档下。
